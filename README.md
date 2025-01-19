@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Goziee-git
-- 👀 I’m interested in AWS Cloud Computing and DevOps Engineering and software development.
-- 🌱 I’m currently learning AWS cloud computing and DevOps Engineering.
-- 💞️ I’m looking to collaborate on great ideas for a cloud and Devops project especially using AWS as the cloud service provider.
+- 👋 Hi, I am Prosper, fondly called Opsmith. 
+- 👀  My Interest are growth and development with an inclination to Site Reliability Engineering and DevOps.
 - 📫 How to reach me prospachigoz@gmail.com
 - 😄 Pronouns: goziee.
 - ⚡ Fun fact: genuine lover of life and its beauties
